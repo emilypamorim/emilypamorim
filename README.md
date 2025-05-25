@@ -18,6 +18,11 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🤝 Quero Colaborar  
+💬 Adoraria ajuda com:  
+- Dicas para melhorar meus códigos  
+- Recomendações de livros/cursos 
+
 ## 📊 Estatísticas do GitHub
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=emilypamorim&layout=compact&include_all_commits=true)
 
